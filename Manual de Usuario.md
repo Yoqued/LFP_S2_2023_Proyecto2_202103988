@@ -2,6 +2,7 @@
 
 ## Abrir
 En está opción tiene la función de poder abrir el buscador de archivo; con el fin de poder abrir un archivo que se pueda analizar un texto en el cual se pueda hacer ciertas acciones.
+
 ![imagen](https://github.com/Yoqued/LFP_S2_2023_Proyecto2_202103988/assets/99625117/b6cd0f88-ccac-45d4-9ff0-cfc8c9734e06)
 
 ## Guardar
@@ -15,6 +16,6 @@ En está opción se tomara todo el texto que se ingreso en el área de texto: cu
 ## Reportes
 ### Reporte de Lexemas: en el reporte de Tokens se presentara un archivo XMl con un diseño profesional, presentando cada Token y referenciando que significa cada uno, tambien se mostrara la fila y la columna de cada token.
 ![imagen](https://github.com/Yoqued/LFP_S2_2023_Proyecto2_202103988/assets/99625117/a6238699-894c-43bd-a0e1-e9c77c81209f)
-### Reporte de Errores: : en el reporte de Errores se presentara un archivo XMl con un diseño profesional, presentando cada Error lexico y sintactico; referenciando que significa cada uno, tambien se mostrara la fila y la columna de cada Error.
+### Reporte de Errores: en el reporte de Errores se presentara un archivo XMl con un diseño profesional, presentando cada Error lexico y sintactico; referenciando que significa cada uno, tambien se mostrara la fila y la columna de cada Error.
 ![imagen](https://github.com/Yoqued/LFP_S2_2023_Proyecto2_202103988/assets/99625117/05f11376-40dd-4f67-ad7e-37a94dba8d90)
 
