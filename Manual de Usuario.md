@@ -7,6 +7,7 @@ En está opción tiene la función de poder abrir el buscador de archivo; con el
 
 ## Guardar
 En está opción la función se abrira el buscador de archivos y se enfocara al área de texto en el cual se pedira un nombre para crear un archivo en el cual se guardara el código que se ingreso en el área de texto.
+
 ![imagen](https://github.com/Yoqued/LFP_S2_2023_Proyecto2_202103988/assets/99625117/9e7612ad-6539-4729-b38a-3754bccd1169)
 
 ## Analizar
